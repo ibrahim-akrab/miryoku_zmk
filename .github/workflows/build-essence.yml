@@ -14,3 +14,4 @@ jobs:
       extra: '[ "qwerty"]'
       tap: '["qwerty"]'
       nav: '["vi"]'
+      mapping: '["essence"]'
