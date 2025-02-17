@@ -1,7 +1,7 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: 'Build essence'
+name: 'Build Essence'
 on: [push, pull_request, workflow_dispatch]
 jobs:
   build:
