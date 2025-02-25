@@ -9,7 +9,7 @@ jobs:
     secrets: inherit
     with:
       board: '["nice_nano_v2"]'
-      shield: '["essence_left","essence_right"]'
+      shield: '["essence_dongle","essence_left","essence_right"]'
       alphas: '[ "qwerty"]'
       extra: '[ "qwerty"]'
       tap: '["qwerty"]'
